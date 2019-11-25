@@ -1,6 +1,7 @@
-token
 .terraform
 *.tfstate*
 kubeconfig
 devops-toolkit
-*.tar.gz
+charts
+ca
+credentials

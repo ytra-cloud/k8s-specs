@@ -1,4 +1,4 @@
-token
+account.json
 .terraform
 *.tfstate*
 kubeconfig
